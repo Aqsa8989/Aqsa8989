@@ -1,5 +1,4 @@
 ![A procurement  Product Manager](https://github.com/Aqsa8989/Aqsa8989/assets/175201358/85285942-f21c-4baa-b7af-8403d3aea2c5)
-![A procurement  Product Manager](https://github.com/Aqsa8989/Aqsa8989/assets/175201358/43f3da2e-57bd-48fe-aab3-4bda5e520f93)
 <h1 align="center">Hi 👋, I'm Aqsa</h1>
 <h3 align="center">A passionate Product Manager</h3>
 <img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
